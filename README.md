@@ -11,7 +11,6 @@ School Course
 #### Exercise 2: Polynomial regression
 #### Exercise 3: Multivariate Logistic Regression
 #### Exercise 4: Nonlinear logistic regression
-#### Exercise 5: MNIST Image Recognition
 #### Exercise 6: Forward selection
 #### Exercise 7: Regularization
 #### Exercise 8: Coefficient accuracy
